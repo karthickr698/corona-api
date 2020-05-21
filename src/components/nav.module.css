@@ -1,0 +1,231 @@
+.cont{
+    width:600px;
+    height:170px;
+    align-items: center;
+    margin: auto !important;
+    margin-left: 350px;
+    margin-top: -40px !important;
+    margin-bottom: 30px;
+}
+.container{
+    width:130px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px;
+    border-radius: 15px;
+    position: relative;
+    z-index: -1;
+    background-color: rgb(204, 204, 204);
+    margin-left: 20px;
+    float: left;
+    height:150px;
+    padding:5px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+}
+.container1{
+    width:150px;
+    border: 1px;
+    margin: auto;
+    border-radius: 15px;
+    position: relative;
+    z-index: -1;
+    background-color: rgb(204, 204, 204);
+    margin-top: 50px;
+    margin-left: 20px;
+    float: left;
+    height:150px;
+    padding:5px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+}
+.text{
+    font-size: 30px;
+}
+.text1{
+    font-size: 22px;
+    opacity: 0.5;
+    position: relative;
+    z-index: -1;
+}
+.table{
+    border-collapse: separate;
+    border-spacing: 10px;
+    padding:5px;
+    margin: auto !important;
+    margin-left: 100px;
+}
+.tablec{
+    border-collapse: separate;
+    border-spacing: 10px;
+    padding:5px;
+    margin: auto !important;
+    margin-left: 200px;
+}
+.table1{
+    width:50%;
+    border-collapse: separate;
+    border-spacing: 10px;
+    margin: auto !important;
+    padding:5px;
+}
+
+.row{
+    padding: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: aquamarine;
+    
+}
+.rows{
+    padding: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: red;
+}
+.row5{
+    padding: 5px;
+    font-weight: bold;
+    margin: auto !important;
+    background-color: navajowhite;
+}
+.row6{
+    padding: 5px;
+    background-color: orangered;
+    font-size: 30px;
+    margin: auto !important;
+    font-weight: bold;
+    text-align: center;
+}
+.col5{
+    border:1px solid black;
+    border-radius: 50px;
+    margin-top: 20px;
+    width:500px;
+    text-align: center;
+    font-weight: bold;
+    padding-right: 5px;
+    font-size: 20px;
+}
+.col6{
+    border:1px solid black;
+    border-radius: 50px;
+    margin-top: 20px;
+    width:500px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 20px;
+}
+.col{
+    border:1px solid black;
+    border-radius: 50px;
+    margin-top: 20px;
+    width:200px;
+    text-align: right;
+    font-weight: bold;
+    padding-right: 20px;
+    
+}
+.col2{
+    border:1px solid black;
+    border-radius: 50px;
+    margin-top: 20px;
+    width:200px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.col1{
+    border:1px solid black;
+    border-radius: 5px;
+    width:30px;
+    padding: 3px;
+    text-align: center;
+    font-weight: bold;
+}
+.row:hover{
+    background-color: rosybrown;
+    border-radius: 5px;
+}
+.heading{
+    height:30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: burlywood;
+    color:blueviolet;
+}
+.up{
+    color:red;
+    font-size: 15px;
+    text-align: left !important;
+}
+.ups{
+    color:BLUE;
+    font-size: 15px;   
+}
+.bt{
+    border: none;
+    background: none;
+    outline: 'none';
+}
+.dt{
+    position: sticky;
+    top:0;
+    
+    height:60px;
+    width:100%;
+    background-color:blueviolet;
+
+    font-size: 20px;
+    display: flex;
+}
+
+.link{
+    padding:10px;
+    margin-top: 5px;
+    height:50px;
+}
+.link:hover{
+    text-decoration: none ;
+    background-color: saddlebrown;
+    border:1px solid black;
+    border-radius: 10px;
+}
+.link .link:active{
+    text-decoration: none ;
+    background-color: red;
+    border:1px solid black;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    margin-top: 5px;
+    color:rgb(185, 91, 3);
+    position: relative ;
+    z-index: -1;
+}
+.update{
+    color:rgb(143, 0, 209);
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 52% ;
+}
+.distupdate{
+    color:rgb(143, 0, 209);
+    font-weight: bold;
+    font-size: 20px;
+    margin: auto;
+    margin-left: 30% ;
+}
+.counupdate{
+    color:rgb(143, 0, 209);
+    font-weight: bold;
+    font-size: 20px;
+    margin: auto !important;
+    text-align: center;
+}
+
