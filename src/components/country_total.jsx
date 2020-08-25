@@ -9,8 +9,8 @@ export default class CountryTotal extends Component {
         super(props)
         this.state = {
             total: [],
+            data: [],
             update: "",
-            data: []
         }
     }
 

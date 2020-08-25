@@ -3,8 +3,8 @@ import { interpolateString } from "d3-interpolate";
 
 function startAnimationLoop({
     onProgress,
-    onComplete,
     duration,
+    onComplete,
     initialProgress
 }) {
     let start = null;

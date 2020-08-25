@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import axios from 'axios';
 import styles from './nav.module.css'
 import State from './state_wise';
-import getTime from './getTime';
 import Search from './Search'
+import getTime from './getTime';
 export default class Nav extends Component {
     constructor(props) {
         super(props)

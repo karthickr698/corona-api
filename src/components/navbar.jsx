@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Route, Link } from 'react-router-dom';
 import style from './nav.module.css';
-import Total from './total';
 import Country from './country_total';
+import Total from './total';
 
 export default class Navi extends Component {
     render() {

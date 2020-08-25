@@ -19,6 +19,7 @@ export class Down extends Component {
         )
     }
 }
+
 export class Up extends Component {
     render() {
         return (

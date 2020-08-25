@@ -1,7 +1,7 @@
 import React from 'react';
 import { slideDown, slideUp } from "./anim";
-import style from './nav.module.css';
 import { Icon } from './Icon'
+import style from './nav.module.css';
 
 export default class UserTableRow extends React.Component {
     state = { expanded: false, sort: false };

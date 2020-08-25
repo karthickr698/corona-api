@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
 import style from './nav.module.css';
-import { Up, Down } from './Icon'
 import UserTableRow from './UserTableRow'
-
-
+import { Up, Down } from './Icon'
 export default class State extends Component {
     constructor(props) {
         super(props)

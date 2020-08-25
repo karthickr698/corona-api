@@ -9,8 +9,8 @@ export default class Country extends Component {
         this.state = {
             bt1: true,
             bt3: false,
-            bt4: true,
             bt5: true,
+            bt4: true,
 
         }
     }

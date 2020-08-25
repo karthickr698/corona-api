@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import { HashRouter } from 'react-router-dom';
 import Nav from './components/navbar'
+import { HashRouter } from 'react-router-dom';
 function App() {
   return (
     <HashRouter>
